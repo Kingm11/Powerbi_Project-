@@ -21,3 +21,5 @@
 
 1) [.sql](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
 2) [.PowerBi](https://powerbi.microsoft.com/en-us/downloads/)
+
+## Visualizations
