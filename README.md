@@ -23,6 +23,11 @@
 2) [.PowerBi](https://powerbi.microsoft.com/en-us/downloads/)
 
 ## Visualizations
-
-![image](https://github.com/Kingm11/Powerbi_Project-/blob/main/Visuals/Messi%20Stats.png)
 #### Messi Stats
+![image](https://github.com/Kingm11/Powerbi_Project-/blob/main/Visuals/Messi%20Stats.png)
+
+#### Messi VS Ronaldo stats
+![image](https://github.com/Kingm11/Powerbi_Project-/blob/main/Visuals/Messi%20vs%20ronaldo.png)
+
+#### Summary
+![image](https://github.com/Kingm11/Powerbi_Project-/blob/main/Visuals/Summary.png)
